@@ -13,10 +13,10 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="left">
+    <td align="left" width="80%">
       <strong>Design-Engineer &nbsp;·&nbsp; UI Architect</strong>
     </td>
-    <td align="right">
+    <td align="right" width="20%">
       <a href="https://linkedin.com/in/joypaul" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
@@ -24,19 +24,15 @@
   </tr>
 </table>
 
----
-
-### Hi 👋, I'm Joy
+## Hi 👋, I'm Joy
 
 A creative Design-Engineer — focused on **clean UI**, **smooth interactions**, and **great user experiences**. I craft production-grade Next.js applications where every detail is intentional, every interaction feels natural, and performance is never an afterthought.
 
----
-
-### Core Stack
+## Core Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,vite,tailwind,jest,redux,npm,bun,vercel,git,github,postman)](https://skillicons.dev)
 
-### What I'm Focused On
+## What I'm Focused On
 
 ```js
 const currentFocus = {
@@ -50,8 +46,6 @@ const currentFocus = {
   principle: "Great UI is not just how it looks — it's how it works.",
 };
 ```
-
----
 
 ## Projects - showcase
 

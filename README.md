@@ -11,11 +11,13 @@
 
 </div>
 
-<div align="left">
-
-**Design-Engineer &nbsp;·&nbsp; UI Architect**
-
-</div>
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="left" width="75%">
+      <strong>Design-Engineer &nbsp;·&nbsp; UI Architect</strong>
+    </td>
+  </tr>
+</table>
 
 ## Hi 👋, I'm Joy
 

@@ -11,14 +11,14 @@
 
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="8">
+<table border="0" cellspacing="0" cellpadding="6">
   <tr>
-    <td align="left" width="80%">
+    <td align="left" width="75%">
       <strong>Design-Engineer &nbsp;·&nbsp; UI Architect</strong>
     </td>
-    <td align="right" width="20%">
-      <a href="https://linkedin.com/in/joypaul" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <td align="right" width="25%">
+      <a href="https://linkedin.com/in/joypaul3592">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>
     </td>
   </tr>

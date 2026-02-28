@@ -16,7 +16,7 @@
     <td align="left" width="75%">
       <strong>Design-Engineer &nbsp;·&nbsp; UI Architect</strong>
     </td>
-    <td align="right" width="25%">
+    <td align="center" width="25%">
       <a href="https://linkedin.com/in/joypaul3592">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
       </a>

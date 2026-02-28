@@ -11,18 +11,11 @@
 
 </div>
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="left" width="75%">
-      <strong>Design-Engineer &nbsp;·&nbsp; UI Architect</strong>
-    </td>
-    <td align="center" width="25%">
-      <a href="https://linkedin.com/in/joypaul3592">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="left">
+
+**Design-Engineer &nbsp;·&nbsp; UI Architect**
+
+</div>
 
 ## Hi 👋, I'm Joy
 

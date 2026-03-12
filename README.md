@@ -48,7 +48,7 @@ const currentFocus = {
   <tr>
     <td valign="top" width="33%">
       <a href="https://no-ui.vercel.app/">
-        <img src="https://media.licdn.com/dms/image/v2/D562DAQF3wpf4g-51bA/profile-treasury-image-shrink_800_800/B56ZwQBaQqKkAc-/0/1769795336381?e=1772866800&v=beta&t=WLSYYD_TiNuMjfMViMkTtcdS_cZM8Db7gJNxDBDx0G4"
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQF3wpf4g-51bA/profile-treasury-image-shrink_800_800/B56ZwQBaQqKkAc-/0/1769795336381?e=1773918000&v=beta&t=DHBPJYyVmuI_GbtZ0D5NYIJ4joINQ5AAvS2sQPr-c_8"
              alt="NoUI Project"
              width="100%"
              height="140"
@@ -62,7 +62,7 @@ const currentFocus = {
     </td>
     <td valign="top" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-        <img src="https://media.licdn.com/dms/image/v2/D562DAQFb4-RY9JJuEw/profile-treasury-image-shrink_800_800/B56ZwP2r.0KkAY-/0/1769792521321?e=1772870400&v=beta&t=nQvohUPXQaSFY52NJOtiWDG_txKOy0uLPrhYRcUqSXE"
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQFb4-RY9JJuEw/profile-treasury-image-shrink_800_800/B56ZwP2r.0KkAY-/0/1769792521321?e=1773918000&v=beta&t=MEiJbCUXfZsALISPtMNYhSp7kzmNSOxQ4wJ5J3p3goY"
              alt="CI/CD Pipeline Project"
              width="100%"
              height="140"
@@ -76,7 +76,7 @@ const currentFocus = {
     </td>
     <td valign="top" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-        <img src="https://media.licdn.com/dms/image/v2/D562DAQF0eM6r1N5A5w/profile-treasury-image-shrink_800_800/B56ZwP7oRYJwAc-/0/1769793817330?e=1772870400&v=beta&t=QDHiytxEvFmaOUE2vqtDdi_WSgAUzO8vyCs9sF6RBcI"
+        <img src="https://media.licdn.com/dms/image/v2/D562DAQF0eM6r1N5A5w/profile-treasury-image-shrink_800_800/B56ZwP7oRYJwAc-/0/1769793817330?e=1773918000&v=beta&t=C7RhcFEj10mgnsWP_ATMsiJqTDTmIT27V9YzKyh0cFI"
              alt="VPC Networking Project"
              width="100%"
              height="140"

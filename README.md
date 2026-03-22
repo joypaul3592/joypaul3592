@@ -50,9 +50,8 @@ const currentFocus = {
       <a href="https://no-ui.vercel.app/">
         <img src="./projects/project1.png"
              alt="NoUI Project"
-             width="100%"
-             height="140"
-             vspace="3"/>
+              width="340"
+              height="190"/>
       </a>
       <br/><br/>
       <b>NoUi — Less Noise, More UI</b><br/>
@@ -64,9 +63,8 @@ const currentFocus = {
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
   <img src="./projects/project2.png"
              alt="CI/CD Pipeline Project"
-             width="100%"
-             height="140"
-             vspace="2"/>
+              width="340"
+              height="190"/>
       </a>
       <br/><br/>
       <b>JoyPaul-Portfolio</b><br/>
@@ -78,9 +76,8 @@ const currentFocus = {
       <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
          <img src="./projects/project3.png"
              alt="VPC Networking Project"
-             width="100%"
-             height="140"
-             vspace="2"/>
+              width="340"
+              height="190"/>
       </a>
       <br/><br/>
       <b>GitHub</b><br/>

@@ -38,7 +38,7 @@ const currentFocus = {
     "Redux Toolkit & async state management",
   ],
   reading: "Designing with Components — UI Architecture for Scale",
-  principle: "Great UI is not just how it looks — it's how it works.",
+  principle: "Great UI is not just how it looks — it's how it works.",.
 };
 ```
 

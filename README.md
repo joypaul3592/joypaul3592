@@ -47,7 +47,7 @@ const currentFocus = {
 <table border="1" cellpadding="8" cellspacing="0">
   <tr>
     <td valign="top" width="33%">
-      <a href="https://no-ui.vercel.app/">
+      <a href="https://kipui.vercel.app/">
         <img src="./projects/project1.png"
              alt="NoUI Project"
               width="340"
@@ -57,7 +57,7 @@ const currentFocus = {
       <b>KipUi — Less Noise, More UI</b><br/>
       <sub>Custom Next.js components crafted for flexible frontend workflows.</sub>
       <br/><br/>
-      <a href="https://no-ui.vercel.app/"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
+      <a href="https://kipui.vercel.app/"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
     </td>
     <td valign="top" width="33%">
       <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">

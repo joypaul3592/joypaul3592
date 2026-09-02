@@ -54,7 +54,7 @@ const currentFocus = {
               height="190"/>
       </a>
       <br/><br/>
-      <b>NoUi — Less Noise, More UI</b><br/>
+      <b>KipUi — Less Noise, More UI</b><br/>
       <sub>Custom Next.js components crafted for flexible frontend workflows.</sub>
       <br/><br/>
       <a href="https://no-ui.vercel.app/"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>

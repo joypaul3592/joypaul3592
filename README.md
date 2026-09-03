@@ -80,10 +80,10 @@ const currentFocus = {
               height="190"/>
       </a>
       <br/><br/>
-      <b>GitHub</b><br/>
-      <sub>You’re welcome to check out my GitHub—exploring and collaboration are always welcome.</sub>
+      <b>BunnyBook</b><br/>
+      <sub>React, Next.js, TypeScript নিয়ে লেখা - যদি আপনিও একই জায়গায় আটকে থাকেন, হয়তো কাজে লাগবে।</sub>
       <br/><br/>
-      <a href="https://github.com/joypaul3592"><img src="https://img.shields.io/badge/View Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repo"/></a>
+      <a href="https://bunnybook.vercel.app"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Repo"/></a>
     </td>
   </tr>
 </table>

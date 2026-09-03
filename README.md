@@ -48,10 +48,7 @@ const currentFocus = {
   <tr>
     <td valign="top" width="33%">
       <a href="https://kipui.vercel.app/">
-        <img src="./projects/project1.png"
-             alt="NoUI Project"
-              width="340"
-              height="190"/>
+        <img src="./projects/project1.png" alt="KipUi" width="100%"/>
       </a>
       <br/><br/>
       <b>KipUi — Less Noise, More UI</b><br/>
@@ -60,24 +57,18 @@ const currentFocus = {
       <a href="https://kipui.vercel.app/"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
     </td>
     <td valign="top" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/CICD%20Pipeline/Set%20Up%20a%20Web%20App%20in%20the%20Cloud.md">
-  <img src="./projects/project2.png"
-             alt="CI/CD Pipeline Project"
-              width="340"
-              height="190"/>
+      <a href="https://portfolio-2026-theta-seven.vercel.app">
+        <img src="./projects/project2.png" alt="JoyPaul Portfolio" width="100%"/>
       </a>
       <br/><br/>
       <b>JoyPaul-Portfolio</b><br/>
       <sub>Welcome to my personal portfolio—explore my latest work and feel free to connect.</sub>
       <br/><br/>
-        <a href="https://portfolio-2026-theta-seven.vercel.app"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
+      <a href="https://portfolio-2026-theta-seven.vercel.app"><img src="https://img.shields.io/badge/🚀 Live Demo-29278A?style=for-the-badge&logoColor=white" alt="Live Demo"/></a>
     </td>
     <td valign="top" width="33%">
-      <a href="https://github.com/maximus-soares/Projects/blob/main/Networking/1%20Build%20a%20VPC.md">
-         <img src="./projects/project3.png"
-             alt="VPC Networking Project"
-              width="340"
-              height="190"/>
+      <a href="https://bunnybook.vercel.app">
+        <img src="./projects/project3.png" alt="BunnyBook" width="100%"/>
       </a>
       <br/><br/>
       <b>BunnyBook</b><br/>
